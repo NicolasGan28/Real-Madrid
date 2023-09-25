@@ -3,10 +3,8 @@
 ## Contenido del Sitio Web
 
 ## Contenido del Sitio Web
-
-- **Historia del Real Madrid**
 - <h2>Historia del Real Madrid</h2>
-<p>El Real Madrid es uno de los clubes de fútbol más importantes, reconocido mundialmente por sus 14 champions league</p>
+<p>El Real Madrid es uno de los clubes de fútbol más importantes, reconocido mundialmente por sus 14 champions league, 35 ligas españolas y entre otros titulos</p>
 
 - **Plantilla Actual**
 - **Logros y Títulos**
