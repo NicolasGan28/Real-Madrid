@@ -13,7 +13,7 @@
     <p>El Real Madrid considerado el mejor club de la historia, lo cual puede ser verdad, ya que sus titulos pueden respaldarlo, con un total de 101 titulos, 14 champions league, 35 ligas españolas, 8 mundiales de clubes, 20 copas del rey, 12 supercopas de españa, 2 europa league y 5 supercopas de europa 
 <div class="container">
         <!-- Imagen a la izquierda -->
-        <img src="https://media.tycsports.com/files/2020/12/03/159168/cristiano-ronaldo-real-madrid.jpg" alt="El maximo idolo del madrid" class="left-image">
+        <img src="">
         
         <!-- Texto a la derecha -->
         <p>
