@@ -1,11 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
+<header>
+    <h1>Sitio web Real Madrod</h1>
+    <nav>
+        <ul>
+            <image src="https://i.postimg.cc/d1t6RpfG/IMG-20230909-234428-098.webp" width="70" height="70">
+            <li><a href="#">Acerca de Nicolas Gutierrez Gantiva
+            </a></li> <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
     Nicolas Gutierrez Gantiva (10°) 
-</head>
-<body>
+</header>
+<section>
     <h1>Real Madrid</h1>
-    <p>Este sitio web está hecho para proporcionar y brindar información sobre el club más prestigioso de la historia, el Real Madrid FC, tiene un gran palmares el cual avala </p>
+    <p>Este sitio web está hecho para proporcionar y brindar información sobre el club más prestigioso de la historia, el Real Madrid FC, tiene un gran palmares el cual </p>
     
  <h2 id="historia">Historia del Real Madrid</h2>
     <p><a href="https://drive.google.com/file/d/1N1Zoo5rd53WvxYnuNQnxBlrPxOD1i2SM/view?usp=sharing" target="_blank">Historia Real Madrid (Video) </a></p>
@@ -15,8 +22,7 @@
         <p>
             El real madrid a sido considerado el mejor club del siglo XX, han pasado varios jugadores historicos como Cristiano Ronaldo, Di Estefano 
         </p>
-</div>
-</body>
-</html>
-</body>
-</html>
+<footer>
+    <p>Derechos de autor &copy;Nicolas Gutierrez</p>
+    <p><a href="contacto.html">Contacto</a></p>
+</footer>
