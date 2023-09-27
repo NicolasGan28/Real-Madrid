@@ -3,8 +3,8 @@
     <nav>
         <ul>
             <image src="https://i.postimg.cc/d1t6RpfG/IMG-20230909-234428-098.webp" width="70" height="70">
-            <li><a href="#">Acerca de Nicolas Gutierrez Gantiva
-            </a></li> <li><a href="#">Contacto</a></li>
+            <li><a href="https://github.com/NicolasGan28/Sobre-mi">Acerca de Nicolas Gutierrez Gantiva
+            </a></li>
         </ul>
     </nav>
 </header>
