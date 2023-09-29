@@ -25,7 +25,7 @@
 <p>Este club a tenido varios sucesos historicos, uno de ellos es reciente y el famosisima 14, la cual fue ganandole a los claros favoritos, al PSG de la MMN, (MESSI,MBAPPÉ,NEYMAR JR), despúes enfrentandose al Chelsea el cual era el actual campeón en ese año, y como cereza del pastel ganandole al Mancity de Pep Guardiola, perdiendo en el minuto 89 con 2 goles abajo, pero aparecio Rodrygo el cual salto y se quedo suspendido en el aire, mientras el balon peinaba la cabeza de Asensio, despues aparecieria un penal en el tiempo extra, el cual marcaria benzema con una gran determinación, en la final se enfrentaba al liverpool de luis diaz, mohamed salah y sadio mané, un pase filtrado de Federico Valverde dirijido a Vinicius jr el cual le gana la espalda a Alexander Arnold, y así se gano una champions historica, la champions "DE LAS REMONTADAS"</p>
 <h3>
     <footer>
-    <p>Derechos de autor &copy;Nicolas Gutierrez</p>
+    <p>Derechos de autor:Nicolas Gutierrez</p>
     <image src="https://i.postimg.cc/d1t6RpfG/IMG-20230909-234428-098.webp" width="90" height="90">
  <p>Autor: Nicolas Gutierrez Gantiva</p>
 <p>Contacto: 3229703692</p>
